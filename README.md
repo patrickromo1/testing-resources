@@ -32,6 +32,9 @@ Curated list of curated lists for test engineers.
 - https://dev-tester.com/
 - https://dev.to/playwright
 
+## Discord/Slacks
+- Playwright: https://discord.com/servers/playwright-807756831384403968
+
 ## Programming References
 - https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
 
